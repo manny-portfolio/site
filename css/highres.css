@@ -1,0 +1,62 @@
+/* --------------------------------------------------
+	:: High Res Monitors
+	
+	This set display for large screen monitors.
+	
+	-------------------------------------------------- */
+	
+/* --------------------------------------------------
+	:: 15' Screen Notebook
+	-------------------------------------------------- */	
+	@media only screen and (min-width: 1281px) and (max-width: 1366px) {
+		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 105% !important; }
+	}
+
+/* --------------------------------------------------
+	:: 19' Screen Desktop
+	-------------------------------------------------- */
+	@media only screen and (min-width: 1367px) and (max-width: 1440px) {
+		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 109% !important; }
+	}
+
+/* --------------------------------------------------
+	:: 20' Screen Desktop
+	-------------------------------------------------- */
+	@media only screen and (min-width: 1441px) and (max-width: 1600px) {
+		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 117% !important; }
+	}
+
+/* --------------------------------------------------
+	:: 22' Screen Desktop
+	-------------------------------------------------- */
+	@media only screen and (min-width: 1601px) and (max-width: 1680px) {
+		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 121% !important; }
+	}
+		
+/* --------------------------------------------------
+	:: 23' Screen Desktop
+	-------------------------------------------------- */
+	@media only screen and (min-width: 1681px) and (max-width: 1920px) {
+		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 132% !important; }
+		.orbit-wrapper .caption-wrapper { width: 300px; }
+		#careermd { height: 1900px; }
+		#time { height: 2300px; }
+		#hn { height: 1640px; }
+		#wizardworld { height: 1900px; }
+		#nba { height: 1100px; }
+		#mountainside { height: 1900px; }
+		#emily { height: 2300px; }
+		#lux { height: 1100px; }
+		#sacha { height: 1100px; }
+		#shane { height: 1900px; }
+		#wish { height: 1900px; }
+		#bl { height: 1900px; }
+		#redcross { height: 2062px; }
+		#poets { height: 1900px; }
+		#nybg { height: 1365px; }
+		#saffronfix { height: 2300px; }
+		#calypso { height: 1365px; }
+		#wang { height: 1900px; }
+		#adler { height: 1900px; }
+		#qi { height: 1900px; }
+	}

@@ -1,0 +1,151 @@
+body {
+    background-color: rgba(32, 46, 51, 0.93);
+}
+#responsive .sites {
+	display: none;
+}
+#responsive div {
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.container {
+	margin: 0 auto;
+    height: 100%;
+    left: 0;
+    overflow: auto;
+    position: relative;
+    top: 0;
+    z-index: 1000;
+}
+.contact {
+    background-color: #F5F5F2;
+    border-radius: 0 10px 10px 0;
+    bottom: 0;
+	color: #000000;
+    font-size: 13px;
+    height: 70px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    width: 92%;
+	padding-top: 12px;
+    z-index: 5; }
+.content h1 {
+	font-size: 40px; 
+	text-transform: uppercase; 
+	font-weight: bold; 
+	text-align: center;
+	margin-top: 15%;
+	color: #222;
+	line-height: 50px;  }
+.content h3 {
+	text-align: center; 
+	font-size: 22px; 
+	color: #222; }
+	
+.orbit-wrapper { margin-bottom: 100px; }
+.orbit-caption div {
+	padding: 5px 5px 15px 5px;
+	text-align: justify;
+}
+.orbit-caption span {
+	display: block;
+	color: #7C7C7A;
+}
+#nba, #lux, #sacha {
+	margin-top: 71px;
+}
+#time {
+	background-image: url(../images/sites/web-time.png);
+	height: 1800px;
+}
+#forme {
+	background-image: url(../images/sites/web-forme.png);
+	height: 1800px;
+}
+#careermd {
+	background-image: url(../images/sites/web-careermd.png);
+	height: 1400px;
+}
+#hn {
+	background-image: url(../images/sites/web-hn.png);
+	height: 1140px;
+}
+#wizardworld {
+	background-image: url(../images/sites/web-wizardworld.png);
+	height: 1400px;
+}
+#nba {
+	background-image: url(../images/sites/web-nba.png);
+	height: 600px;
+}
+#mountainside {
+	background-image: url(../images/sites/web-mountainside.png);
+	height: 1400px;
+}
+#emily {
+	background-image: url(../images/sites/web-emily.png);
+	height: 1800px;
+}
+#lux {
+	background-image: url(../images/sites/web-lux.png);
+	height: 600px;
+}
+#sacha {
+	background-image: url(../images/sites/web-sacha.png);
+	height: 600px;
+}
+#shane {
+	background-image: url(../images/sites/web-shane.png);
+	height: 1400px;
+}
+#wish {
+	background-image: url(../images/sites/web-wish.png);
+	height: 1400px;
+}
+#bl {
+	background-image: url(../images/sites/web-bl.png);
+	height: 1400px;
+}
+#redcross {
+	background-image: url(../images/sites/web-redcross.png);
+	height: 1562px;
+}
+#poets {
+	background-image: url(../images/sites/web-poets.png);
+	height: 1400px;
+}
+#nybg {
+	background-image: url(../images/sites/web-nybg.png);
+	height: 865px;
+}
+#saffronfix {
+	background-image: url(../images/sites/web-saffronfix.png);
+	height: 1800px;
+}
+#calypso {
+	background-image: url(../images/sites/web-calypso.png);
+	height: 865px;
+}
+#wang {
+	background-image: url(../images/sites/web-wang.png);
+	height: 1400px;
+}
+#adler {
+	background-image: url(../images/sites/web-adler.png);
+	height: 1400px;
+}
+#qi {
+	background-image: url(../images/sites/web-qi.png);
+	height: 1400px;
+}
+
+@-moz-document url-prefix() {
+	#nba, #lux, #sacha {
+		margin-top: 65px;
+	}
+}
+div:last-child img {
+	display:none; 
+}
