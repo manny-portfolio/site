@@ -120,6 +120,10 @@ body {
 	background-image: url(../images/sites/web-nybg.png);
 	height: 865px;
 }
+#mp {
+	background-image: url(../images/sites/web-mp.png);
+	height: 1400px;
+}
 #saffronfix {
 	background-image: url(../images/sites/web-saffronfix.png);
 	height: 1800px;
@@ -145,7 +149,4 @@ body {
 	#nba, #lux, #sacha {
 		margin-top: 65px;
 	}
-}
-div:last-child img {
-	display:none; 
 }

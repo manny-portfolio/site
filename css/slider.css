@@ -180,7 +180,7 @@ div.slider-nav span.left {
     color: #222;
     background-position: -10px 0; }
  
- .orbit-bullets li.active:nth-last-child(-n+6) {
+ .orbit-bullets li.active:nth-last-child(-n+7) {
  	width: 17px;
     background: url(../images/cart.png) no-repeat -0 0; }
     
