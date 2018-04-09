@@ -121,7 +121,7 @@
 		.row { margin: 0; max-width: 100%; min-width: 100%; width: 100%; }
 		.row .nine.columns { width: auto; }
 		.orbit-wrapper { overflow: hidden; margin-bottom: 0; }
-		.orbit-wrapper .caption-wrapper { width: 94%; text-align: center; top: 0; right: auto; position: absolute; height: 440px; border-radius: 10px; }
+		.orbit-wrapper .caption-wrapper { width: 94%; text-align: center; top: 0; right: auto; position: absolute; height: 440px; border-radius: 0; }
 		.orbit-caption { margin: 0 auto; width: 80%; }
 		.orbit-bullets { display: none; }
 		div.orbit { top: 530px; border-radius: 10px; }
