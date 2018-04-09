@@ -34,9 +34,9 @@
 	}
 		
 /* --------------------------------------------------
-	:: 23' Screen Desktop
+	:: 23'+ Screen Desktop
 	-------------------------------------------------- */
-	@media only screen and (min-width: 1681px) and (max-width: 1920px) {
+	@media only screen and (min-width: 1681px) and (max-width: 2560px) {
 		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 132% !important; }
 		.orbit-wrapper .caption-wrapper { width: 300px; }				.orbit-wrapper .caption-wrapper { right: 15%; }
 		#careermd { height: 1900px; }
