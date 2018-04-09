@@ -30,7 +30,7 @@
 	:: 22' Screen Desktop
 	-------------------------------------------------- */
 	@media only screen and (min-width: 1601px) and (max-width: 1680px) {
-		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 121% !important; }
+		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 121% !important; }		.orbit-wrapper .caption-wrapper { right: 16%; }
 	}
 		
 /* --------------------------------------------------
