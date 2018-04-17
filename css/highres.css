@@ -30,7 +30,7 @@
 	:: 22' Screen Desktop
 	-------------------------------------------------- */
 	@media only screen and (min-width: 1601px) and (max-width: 1680px) {
-		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 121% !important; }		.orbit-wrapper .caption-wrapper { right: 15%; }
+		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 121% !important; }
 	}
 		
 /* --------------------------------------------------
@@ -38,7 +38,7 @@
 	-------------------------------------------------- */
 	@media only screen and (min-width: 1681px) and (max-width: 2560px) {
 		.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { width: 132% !important; }
-		.orbit-wrapper .caption-wrapper { width: 300px; }				.orbit-wrapper .caption-wrapper { right: 15%; }
+		.orbit-wrapper .caption-wrapper { width: 300px; }		
 		#careermd { height: 1900px; }
 		#time { height: 2300px; }
 		#hn { height: 1640px; }
