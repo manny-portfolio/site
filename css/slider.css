@@ -117,7 +117,7 @@ span.pause.active {
     border-radius: 0 10px 10px 0;
     color: #000000;
     font-size: 13px;
-    height: 75%;
+    height: 80%;
     padding: 22px;
     position: fixed;
     right: 9%;
@@ -154,12 +154,6 @@ div.slider-nav span.left {
 
 /* BULLET NAV
    ================================================== */
-
-@media only screen and (max-height: 605px) {
-	.orbit-bullets {
-		display: none;
-	}
-}
 
 .orbit-bullets {
     list-style: none;
