@@ -192,7 +192,8 @@ div.slider-nav span.left {
     display: block;
     width: 100%; }
 
-.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { 
+.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid {
+    height: 3300px !important;
     width: 100% !important; }
 
 .orbit-wrapper.fluid .orbit-bullets {
