@@ -1,12 +1,12 @@
 body {
-    background-color: rgba(32, 46, 51, 0.93);
+  background-color: rgba(32, 46, 51, 0.93);
 }
 #responsive .sites {
-	display: none;
+  display: none;
 }
 #responsive div {
-	background-repeat: no-repeat;
-	background-size: contain;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 .container {
 	margin: 0 auto;
@@ -21,7 +21,7 @@ body {
     background-color: #F5F5F2;
     border-radius: 0 10px 10px 0;
     bottom: 0;
-	color: #000000;
+    color: #000000;
     font-size: 13px;
     height: 70px;
     margin: 0 auto;
@@ -29,7 +29,7 @@ body {
     position: absolute;
     text-align: center;
     width: 92%;
-	padding-top: 12px;
+    padding-top: 12px;
     z-index: 5; }
 .content h1 {
 	font-size: 40px; 
