@@ -121,7 +121,7 @@ span.pause.active {
     padding: 22px;
     position: fixed;
     right: 9%;
-    top: 10%;
+    bottom: 1%;
 	z-index: 4;
 	overflow: hidden;
 	border: 2px solid #ccc;
