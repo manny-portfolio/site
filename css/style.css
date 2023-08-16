@@ -64,6 +64,10 @@ body {
 	background-image: url(../images/sites/web-karma.png);
 	height: 4466px;
 }
+#bc {
+	background-image: url(../images/sites/web-bc.png);
+	height: 3175px;
+}
 #ashleystark {
 	background-image: url(../images/sites/web-ashleystark.png);
 	height: 3175px;
