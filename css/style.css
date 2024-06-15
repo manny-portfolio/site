@@ -47,7 +47,9 @@ body {
 .orbit-wrapper { margin-bottom: 100px; }
 .orbit-caption div {
 	padding: 5px 5px 15px 5px;
-	text-align: justify;
+	text-align: left;
+	font-size: 16px;
+	line-height: 1.5em;
 }
 .orbit-caption span {
 	display: block;
