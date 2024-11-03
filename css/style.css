@@ -58,6 +58,18 @@ body {
 #nba, #lux, #sacha {
 	margin-top: 71px;
 }
+#ora {
+	background-image: url(../images/sites/web-ora.png);
+	height: 1800px;
+}
+#seed {
+	background-image: url(../images/sites/web-seed.png);
+	height: 3175px;
+}
+#soko {
+	background-image: url(../images/sites/web-sokoglam.png);
+	height: 3175px;
+}
 #time {
 	background-image: url(../images/sites/web-time.png);
 	height: 1800px;
