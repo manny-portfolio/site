@@ -54,7 +54,7 @@
                     n = s.width(),
                     a = s.height();
                 n > e.$element.width() && (e.$element.add(e.$wrapper).width(n), e.orbitWidth = e.$element.width()), a > e.$element.height() && (e.$element.add(e.$wrapper).height(a), e.orbitHeight = e.$element.height(), t = i(this).clone()), e.numberSlides += 1
-            }), this.options.fluid && ("string" == typeof this.options.fluid && (t = i('<img src="http://placehold.it/' + this.options.fluid + '" />')), e.$element.prepend(t), t.addClass("fluid-placeholder"), t.css({
+            }), this.options.fluid && ("string" == typeof this.options.fluid && (t = i('<img src="http://placehold.it/' + this.options.fluid + '" />')), t.addClass("fluid-placeholder"), t.css({
                 "z-index": 3,
                 opacity: 1,
                 display: "block"
