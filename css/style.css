@@ -1,12 +1,12 @@
 body {
-    background-color: rgba(32, 46, 51, 0.93);
+  background-color: rgba(32, 46, 51, 0.93);
 }
 #responsive .sites {
-	display: none;
+  display: none;
 }
 #responsive div {
-	background-repeat: no-repeat;
-	background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 .container {
 	margin: 0 auto;
@@ -21,7 +21,7 @@ body {
     background-color: #F5F5F2;
     border-radius: 0 10px 10px 0;
     bottom: 0;
-	color: #000000;
+    color: #000000;
     font-size: 13px;
     height: 70px;
     margin: 0 auto;
@@ -29,7 +29,7 @@ body {
     position: absolute;
     text-align: center;
     width: 92%;
-	padding-top: 12px;
+    padding-top: 12px;
     z-index: 5; }
 .content h1 {
 	font-size: 40px; 
@@ -46,8 +46,10 @@ body {
 	
 .orbit-wrapper { margin-bottom: 100px; }
 .orbit-caption div {
-	padding: 5px 5px 15px 5px;
-	text-align: justify;
+	padding: 0 5px 15px 5px;
+	text-align: left;
+	font-size: 15px;
+	line-height: 1.5em;
 }
 .orbit-caption span {
 	display: block;
@@ -56,12 +58,40 @@ body {
 #nba, #lux, #sacha {
 	margin-top: 71px;
 }
+#ora {
+	background-image: url(../images/sites/web-ora.png);
+	height: 1800px;
+}
+#seed {
+	background-image: url(../images/sites/web-seed.png);
+	height: 3175px;
+}
+#soko {
+	background-image: url(../images/sites/web-sokoglam.png);
+	height: 3175px;
+}
 #time {
 	background-image: url(../images/sites/web-time.png);
 	height: 1800px;
 }
+#karma {
+	background-image: url(../images/sites/web-karma.png);
+	height: 4466px;
+}
+#bc {
+	background-image: url(../images/sites/web-bc.png);
+	height: 3175px;
+}
 #ashleystark {
 	background-image: url(../images/sites/web-ashleystark.png);
+	height: 3175px;
+}
+#peckish {
+	background-image: url(../images/sites/web-peckish.png);
+	height: 1000px;
+}
+#phocus {
+	background-image: url(../images/sites/web-phocus.png);
 	height: 3175px;
 }
 #summer {

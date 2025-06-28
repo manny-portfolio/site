@@ -117,15 +117,15 @@ span.pause.active {
     border-radius: 0 10px 10px 0;
     color: #000000;
     font-size: 13px;
-    height: 75%;
+    height: 90%;
     padding: 22px;
     position: fixed;
     right: 9%;
-    top: 10%;
+    bottom: 1%;
 	z-index: 4;
 	overflow: hidden;
 	border: 2px solid #ccc;
-    width: 277px; }
+    width: 290px; }
 
 
 /* DIRECTIONAL NAV
@@ -155,12 +155,6 @@ div.slider-nav span.left {
 /* BULLET NAV
    ================================================== */
 
-@media only screen and (max-height: 605px) {
-	.orbit-bullets {
-		display: none;
-	}
-}
-
 .orbit-bullets {
     list-style: none;
     padding: 0; }
@@ -179,11 +173,7 @@ div.slider-nav span.left {
 .orbit-bullets li.active {
     color: #222;
     background-position: -10px 0; }
- 
- .orbit-bullets li.active:nth-last-child(-n+6) {
- 	width: 17px;
-    background: url(../images/cart.png) no-repeat -0 0; }
-    
+     
 .orbit-bullets li.has-thumb {
     background: none;
     width: 100px;
@@ -202,7 +192,8 @@ div.slider-nav span.left {
     display: block;
     width: 100%; }
 
-.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid { 
+.orbit-wrapper.fluid .orbit, .orbit-wrapper.fluid {
+    height: 3300px !important;
     width: 100% !important; }
 
 .orbit-wrapper.fluid .orbit-bullets {
