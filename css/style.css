@@ -1,3 +1,8 @@
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+  .orbit-caption div { font-size: 13px !important; }
+  .orbit-caption h2 { font-size: 2.2rem !important; }
+}
+
 body {
   background-color: rgba(32, 46, 51, 0.93);
 }
@@ -60,123 +65,96 @@ body {
 }
 #ora {
 	background-image: url(../images/sites/web-ora.png);
-	height: 1800px;
 }
 #seed {
 	background-image: url(../images/sites/web-seed.png);
-	height: 3175px;
+}
+#gca {
+	background-image: url(../images/sites/web-gca.png);
 }
 #soko {
 	background-image: url(../images/sites/web-sokoglam.png);
-	height: 3175px;
 }
 #time {
 	background-image: url(../images/sites/web-time.png);
-	height: 1800px;
 }
 #karma {
 	background-image: url(../images/sites/web-karma.png);
-	height: 4466px;
 }
 #bc {
 	background-image: url(../images/sites/web-bc.png);
-	height: 3175px;
 }
 #ashleystark {
 	background-image: url(../images/sites/web-ashleystark.png);
-	height: 3175px;
 }
 #peckish {
 	background-image: url(../images/sites/web-peckish.png);
-	height: 1000px;
 }
 #phocus {
 	background-image: url(../images/sites/web-phocus.png);
-	height: 3175px;
 }
 #summer {
 	background-image: url(../images/sites/web-summer.png);
-	height: 3175px;
 }
 #forme {
 	background-image: url(../images/sites/web-forme.png);
-	height: 1800px;
 }
 #careermd {
 	background-image: url(../images/sites/web-careermd.png);
-	height: 1400px;
 }
 #hn {
 	background-image: url(../images/sites/web-hn.png);
-	height: 1140px;
 }
 #wizardworld {
 	background-image: url(../images/sites/web-wizardworld.png);
-	height: 1400px;
 }
 #nba {
 	background-image: url(../images/sites/web-nba.png);
-	height: 600px;
 }
 #mountainside {
 	background-image: url(../images/sites/web-mountainside.png);
-	height: 1400px;
 }
 #emily {
 	background-image: url(../images/sites/web-emily.png);
-	height: 1800px;
 }
 #lux {
 	background-image: url(../images/sites/web-lux.png);
-	height: 600px;
 }
 #sacha {
 	background-image: url(../images/sites/web-sacha.png);
-	height: 600px;
 }
 #shane {
 	background-image: url(../images/sites/web-shane.png);
-	height: 1400px;
 }
 #wish {
 	background-image: url(../images/sites/web-wish.png);
-	height: 1400px;
 }
 #bl {
 	background-image: url(../images/sites/web-bl.png);
-	height: 1400px;
 }
 #redcross {
 	background-image: url(../images/sites/web-redcross.png);
-	height: 1562px;
 }
 #poets {
 	background-image: url(../images/sites/web-poets.png);
-	height: 1400px;
 }
 #nybg {
 	background-image: url(../images/sites/web-nybg.png);
-	height: 865px;
 }
 #saffronfix {
 	background-image: url(../images/sites/web-saffronfix.png);
-	height: 1800px;
 }
 #calypso {
 	background-image: url(../images/sites/web-calypso.png);
-	height: 865px;
 }
 #wang {
 	background-image: url(../images/sites/web-wang.png);
-	height: 1400px;
 }
 #adler {
 	background-image: url(../images/sites/web-adler.png);
-	height: 1400px;
 }
 #qi {
 	background-image: url(../images/sites/web-qi.png);
-	height: 1400px;
 }
 
 @-moz-document url-prefix() {
