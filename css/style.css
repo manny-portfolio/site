@@ -63,6 +63,18 @@ body {
 #nba, #lux, #sacha {
 	margin-top: 71px;
 }
+#ecosmetics {
+	background-image: url(../images/sites/web-ecosmetics.png);
+}
+#yumi {
+	background-image: url(../images/sites/web-yumi.png);
+}
+#root {
+	background-image: url(../images/sites/web-root.png);
+}
+#atlas {
+	background-image: url(../images/sites/web-atlas.png);
+}
 #ora {
 	background-image: url(../images/sites/web-ora.png);
 }
